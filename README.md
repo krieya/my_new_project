@@ -2,7 +2,7 @@
 
 This is my new project.
 
-author:
+author: Rannie
 
 Below is the main function of the project: 
 
@@ -11,4 +11,5 @@ def foo(x):
   #TODO
 ```
 
+Today is not gonna rain!
 
